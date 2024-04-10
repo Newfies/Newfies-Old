@@ -1,6 +1,5 @@
 <details>
   <summary><b>About Me</b></summary>
-  
   Hello, I Love Newfies!
 </details>
 
