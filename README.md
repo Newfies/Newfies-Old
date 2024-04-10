@@ -7,6 +7,11 @@
 <details>
   <summary><b>Updates</b></summary>
   <br>
+    <details>
+    <summary><b>April 10, 2024</b></summary>
+    
+  - Added Ubuntu Tile font to [GsLibrary/Libray](https://github.com/GsLibrary/Library) and [GsLibrary/StaticWebsiteTemplate](https://github.com/GsLibrary/StaticWebsiteTemplate)
+  </details>
   <details>
     <summary><b>April 5, 2024</b></summary>
     
