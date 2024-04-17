@@ -6,6 +6,11 @@
 <details>
   <summary><b>Updates</b></summary>
   <br>
+  <details>
+    <summary><b>April 17, 2024</b></summary>
+    
+  - Added [Newfies/SelectiveGeneration](https://github.com/Newfies/SelectiveGeneration)
+  </details>
     <details>
     <summary><b>April 10, 2024</b></summary>
     
