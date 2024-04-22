@@ -7,6 +7,11 @@
   <summary><b>Updates</b></summary>
   <br>
   <details>
+    <summary><b>April 22, 2024</b></summary>
+    
+  - Made changes to [GsLibrary/StaticWebsiteTemplate](https://github.com/GsLibrary/StaticWebsiteTemplate/),  [read updates here](https://github.com/orgs/GsLibrary/discussions/19)
+  </details>
+  <details>
     <summary><b>April 17, 2024</b></summary>
     
   - Added [Newfies/SelectiveGeneration](https://github.com/Newfies/SelectiveGeneration)
