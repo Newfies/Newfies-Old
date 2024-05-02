@@ -7,6 +7,11 @@
   <summary><b>Updates</b></summary>
   <br>
   <details>
+    <summary><b>May 2, 2024</b></summary>
+    
+  - Deleted majority of my Organizations. I may delete Anti Cens as well. I'm not updating things like I use to so there was no point of having them anymore.
+  </details>
+  <details>
     <summary><b>April 22, 2024</b></summary>
     
   - Made changes to [GsLibrary/StaticWebsiteTemplate](https://github.com/GsLibrary/StaticWebsiteTemplate/),  [read updates here](https://github.com/orgs/GsLibrary/discussions/19)
