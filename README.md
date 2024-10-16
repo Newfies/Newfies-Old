@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=newfies&label=Profile%20views&color=0e75b6&style=flat" alt="newfies" /> </p>
 
 ### Hey, Its Newfies!
-- 【🧠】 I’m currently learning (or attempting to learn) **NodeJS, Python, Lua, ExpressJS, PHP**
-- 【➕】 I'm interested in learning **NodeJS, Python, Lua, ExpressJS, DiscordJS, NextJS, VueJS, C++, C#, C TypeScript, Blender, Docker, MongoDB, Nginx, NuxtJS, PHP, React, and more**
+- 【🧠】 I’m currently learning (or attempting to learn) **NodeJS, Python, Lua, ExpressJS, PHP, Javascript, HTML, CSS**
+- 【➕】 I'm interested in learning **NodeJS, Python, Lua, ExpressJS, DiscordJS, NextJS, VueJS, C++, C#, C TypeScript, Blender, Docker, MongoDB, Nginx, NuxtJS, PHP, React, Java, Javascript, CSS and more**
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=BB2222&center=true&width=525&lines=Hey%2C+Its+Newfie!;This+Is+My+GitHub+Profile.;I+Enjoy+Tech+and+Animals!;On+My+Profile+You+Can+Mainly+Find+Me+Using+HTML%2FJS%2FCSS;I+Am+Pro+Privacy!;I+Support+LGBTQ!;I+Use+Windows+10+Pro%2C+and+Brave+Browser" alt="Typing SVG" /></a>
