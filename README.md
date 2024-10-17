@@ -5,8 +5,14 @@
 - 【➕】 I'm interested in learning **NodeJS, Python, Lua, ExpressJS, DiscordJS, NextJS, VueJS, C++, C#, C TypeScript, Blender, Docker, MongoDB, Nginx, NuxtJS, PHP, React, Java, Javascript, CSS and more**
 
 <details>
-  <summary>Help!</summary>
-  <a>One of the things im currently struggling with is python automation using things like Selenium and whatnot, IDK how to do this stuff at all and its lowkey stressful tbh.. check out this repo to see what i was working on</a> <a href="https://github.com/GsLibrary/SeleniumAutomationTemplate">link</a>
+  <summary>Newfies Struggle Box</summary>
+  
+  ### This is Newfies struggle box, links to things hes struggling with and whatnot
+  help is appreciated, but I am limited on what i know and dont like making things with code im unfamiliar with.
+
+  ### Current Struggles
+  * Selenium, Python, WebDrivers - <a href="https://github.com/GsLibrary/SeleniumAutomationTemplate">Link to Repo 1</a>
+  * CSS and using position, directions, and zindex
 </details>
 
 <div align="center">
