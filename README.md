@@ -16,7 +16,7 @@
 </details>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=BB2222&center=true&width=525&lines=Hey%2C+Its+Newfie!;This+Is+My+GitHub+Profile.;I+Enjoy+Tech+and+Animals!;On+My+Profile+You+Can+Mainly+Find+Me+Using+HTML%2FJS%2FCSS;I+Am+Pro+Privacy!;I+Support+LGBTQ!;I+Use+Windows+10+Pro%2C+and+Brave+Browser" alt="Typing SVG" /></a>
+<a href="https://readme-typing-svg.demolab.com/demo/?font=Ubuntu&color=BB2222&center=true&vCenter=true&width=525&lines=Hey%2C+it's+me+Newfie!;This+is+my+GitHub+profile.;I+enjoy+tech+and+animals!;On+my+profile+you+can+mainly+find+me+using+HTML%2FCSS%2FJS;I+am+pro+privacy!;I+support+LGBTQ!;I+am+pro+preservation+for+things+like+games."><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=BB2222&center=true&vCenter=true&width=525&lines=Hey%2C+it's+me+Newfie!;This+is+my+GitHub+profile.;I+enjoy+tech+and+animals!;On+my+profile+you+can+mainly+find+me+using+HTML%2FCSS%2FJS;I+am+pro+privacy!;I+support+LGBTQ!;I+am+pro+preservation+for+things+like+games." alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
