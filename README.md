@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=newfies&label=Profile%20views&color=0e75b6&style=flat" alt="newfies" /> </p>
 
 ### Hey, Its Newfies!
-- 【🧠】 I’m currently learning (or attempting to learn) **NodeJS, Python, Lua, ExpressJS, PHP, Javascript, HTML, CSS**
+- 【🧠】 I’m currently learning (or attempting to learn) **NodeJS, Python, Lua, ExpressJS, PHP, Javascript, HTML, CSS, DiscordJS**
 - 【➕】 I'm interested in learning **NodeJS, Python, Lua, ExpressJS, DiscordJS, NextJS, VueJS, C++, C#, C TypeScript, Blender, Docker, MongoDB, Nginx, NuxtJS, PHP, React, Java, Javascript, CSS and more**
 
 <details>
