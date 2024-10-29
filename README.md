@@ -3,6 +3,14 @@
 ### Hey, Its Newfies!
 - 【🧠】 I’m currently learning (or attempting to learn) **NodeJS, Python, Lua, ExpressJS, PHP, Javascript, HTML, CSS, DiscordJS**
 - 【➕】 I'm interested in learning **NodeJS, Python, Lua, ExpressJS, DiscordJS, NextJS, VueJS, C++, C#, C TypeScript, Blender, Docker, MongoDB, Nginx, NuxtJS, PHP, React, Java, Javascript, CSS and more**
+  
+<details>
+  <summary>Newfies Current Projects</summary>
+  
+  ### These are the current projects Newfies is working on!
+  * DiscordJS Bot | [View Project](https://github.com/Newfies/DiscordJSBot)
+  * Render NodeJS Site | [View Project](https://github.com/Newfies/Render-NJS-Site)
+</details>
 
 <details>
   <summary>Newfies Struggle Box</summary>
