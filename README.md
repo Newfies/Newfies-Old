@@ -10,6 +10,7 @@
   ### These are the current projects Newfies is working on!
   * DiscordJS Bot | [View Project](https://github.com/Newfies/DiscordJSBot)
   * Render NodeJS Site | [View Project](https://github.com/Newfies/Render-NJS-Site)
+  * NodeJS Proxy | [View Project](https://github.com/GsLibrary/GsProxy)
 </details>
 
 <details>
