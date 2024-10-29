@@ -11,6 +11,7 @@
   * DiscordJS Bot | [View Project](https://github.com/Newfies/DiscordJSBot)
   * Render NodeJS Site | [View Project](https://github.com/Newfies/Render-NJS-Site)
   * NodeJS Proxy | [View Project](https://github.com/GsLibrary/GsProxy)
+  * **V2** Dynamic Website Template | [View Project](https://github.com/GsLibrary/dwt)
 </details>
 
 <details>
@@ -20,8 +21,9 @@
   help is appreciated, but I am limited on what i know and dont like making things with code im unfamiliar with.
 
   ### Current Struggles
-  * Selenium, Python, WebDrivers - <a href="https://github.com/GsLibrary/SeleniumAutomationTemplate">Link to Repo 1</a>
-  * CSS and using position, directions, and zindex
+  * Selenium, Python, WebDrivers | [View Project](https://github.com/GsLibrary/SeleniumAutomationTemplate)
+  * createProxyMiddleware, http-proxy-middleware | [View Project](https://github.com/GsLibrary/GsProxy)
+  * CSS and using position, directions, and zindex | [This is experienced in 95% of my projects]
 </details>
 
 <div align="center">
