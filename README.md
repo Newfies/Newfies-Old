@@ -21,6 +21,7 @@
   help is appreciated, but I am limited on what i know and dont like making things with code im unfamiliar with.
 
   ### Current Struggles
+  * Postman, OAuth, Twitter/X API | No project for this, but this stuff really stresses me out, things update, nothing up to date, noone can teach me how to do this stuff.
   * Selenium, Python, WebDrivers | [View Project](https://github.com/GsLibrary/SeleniumAutomationTemplate)
   * createProxyMiddleware, http-proxy-middleware | [View Project](https://github.com/GsLibrary/GsProxy)
   * CSS and using position, directions, and zindex | [This is experienced in 95% of my projects]
