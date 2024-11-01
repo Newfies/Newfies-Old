@@ -27,18 +27,23 @@
   * CSS and using position, directions, and zindex | [This is experienced in 95% of my projects]
 </details>
 
-<div align="center">
-<a href="https://readme-typing-svg.demolab.com/demo/?font=Ubuntu&color=BB2222&center=true&vCenter=true&width=525&lines=Hey%2C+it's+me+Newfie!;This+is+my+GitHub+profile.;I+enjoy+tech+and+animals!;On+my+profile+you+can+mainly+find+me+using+HTML%2FCSS%2FJS;I+am+pro+privacy!;I+support+LGBTQ!;I+am+pro+preservation+for+things+like+games."><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=BB2222&center=true&vCenter=true&width=525&lines=Hey%2C+it's+me+Newfie!;This+is+my+GitHub+profile.;I+enjoy+tech+and+animals!;On+my+profile+you+can+mainly+find+me+using+HTML%2FCSS%2FJS;I+am+pro+privacy!;I+support+LGBTQ!;I+am+pro+preservation+for+things+like+games." alt="Typing SVG" /></a>
-</div>
+<details>
+  <summary>GitHub Stats</summary>
 
-<div align="center">
+  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=newfies&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=newfies&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+</details>
 
-<br></br>
 <div align="center">
 
   ![Jokes Card](https://readme-jokes.vercel.app/api)
   
 </div>
+
+<!-- 
+<div align="center">
+<a href="https://readme-typing-svg.demolab.com/demo/?font=Ubuntu&color=BB2222&center=true&vCenter=true&width=525&lines=Hey%2C+it's+me+Newfie!;This+is+my+GitHub+profile.;I+enjoy+tech+and+animals!;On+my+profile+you+can+mainly+find+me+using+HTML%2FCSS%2FJS;I+am+pro+privacy!;I+support+LGBTQ!;I+am+pro+preservation+for+things+like+games."><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=BB2222&center=true&vCenter=true&width=525&lines=Hey%2C+it's+me+Newfie!;This+is+my+GitHub+profile.;I+enjoy+tech+and+animals!;On+my+profile+you+can+mainly+find+me+using+HTML%2CFSS%2FJS;I+am+pro+privacy!;I+support+LGBTQ!;I+am+pro+preservation+for+things+like+games." alt="Typing SVG" /></a>
+</div>
+-->
