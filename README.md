@@ -8,9 +8,7 @@
   <summary>Newfies Current Projects</summary>
   
   ### These are the current projects Newfies is working on!
-  * DiscordJS Bot | [View Project](https://github.com/Newfies/DiscordJSBot)
-  * Render NodeJS Site | [View Project](https://github.com/Newfies/Render-NJS-Site)
-  * NodeJS Proxy | [View Project](https://github.com/GsLibrary/GsProxy)
+  * Redfie - A new GitHub org where I'll be attempting to upload things like a custom browser | [View Org](https://github.com/Redfie)
   * **V2** Dynamic Website Template | [View Project](https://github.com/GsLibrary/dwt)
 </details>
 
