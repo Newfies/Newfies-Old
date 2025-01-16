@@ -8,8 +8,7 @@
   <summary>Newfies Current Projects</summary>
   
   ### These are the current projects Newfies is working on!
-  * Redfie - A new GitHub org where I'll be attempting to upload things like a custom browser | [View Org](https://github.com/Redfie)
-  * **V2** Dynamic Website Template | [View Project](https://github.com/GsLibrary/dwt)
+  * Nothing Right Now!
 </details>
 
 <details>
