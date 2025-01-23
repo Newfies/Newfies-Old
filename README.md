@@ -8,7 +8,7 @@
   <summary>Newfies Current Projects</summary>
   
   ### These are the current projects Newfies is working on!
-  * Nothing Right Now!
+   - [Lethal Company Archives](https://github.com/Newfies/LethalCompanyArchives)
 </details>
 
 <details>
