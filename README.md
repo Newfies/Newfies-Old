@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=newfies&label=Profile%20views&color=0e75b6&style=flat" alt="newfies" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=newfies&label=Profile%20views&color=ff78b2&style=flat" alt="newfies" /> </p>
 
 ### Hey, Its Newfies!
 - 【🧠】 I’m currently learning (or attempting to learn) **NodeJS, Python, Lua, ExpressJS, PHP, Javascript, HTML, CSS, DiscordJS**
