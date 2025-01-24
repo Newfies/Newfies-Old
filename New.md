@@ -8,3 +8,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Newfies&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=Newfies&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=Newfies&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
+
+<!-- https://us-central1-progress-markdown.cloudfunctions.net/progress/99?dangerColor=800000&warningColor=ff9900&successColor=006600 -->
