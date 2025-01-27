@@ -1,3 +1,5 @@
+![Counter](https://komarev.com/ghpvc/?username=newfies&label=Profile%20views&color=ff78b2&style=flat)
+
 # 👤 | Introduction:
 Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am trying to learn coding, and struggle with it alot. The interests below are what I'm interested in, though I haven't *mastered* any yet unfortunately. Check out my repos if you wanna.
 
