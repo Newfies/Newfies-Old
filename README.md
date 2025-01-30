@@ -21,9 +21,8 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am t
 
 # 📁 | Recent Projects:
 - [Annoying Audios Gone - Lethal Company Mod](https://github.com/Newfies/AnnoyingAudiosGone)
-- FiveM Mod #1 | Uploading Soon
-- FiveM Mod #2 | Uploading Soon
-- FiveM Mod #3 | Uploading Soon
+- [Google Solitaire, But An Added Cursor For A FiveM Loading Screen](https://github.com/Newfies/solitaire-newfies-loadingscreen)
+- [My FiveM Mods](https://github.com/Newfies/fivem-mini-mods)
 
 # 📊 | GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Newfies&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
