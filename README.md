@@ -1,4 +1,4 @@
-![Counter](https://komarev.com/ghpvc/?username=newfies&label=Profile%20views&color=ff78b2&style=flat)
+![image](https://github.com/user-attachments/assets/0e2b41c8-e65e-4562-8ab4-c9b5a3119473)![image](https://github.com/user-attachments/assets/2728a3e6-a31f-4e71-947f-9d833367695e)![Counter](https://komarev.com/ghpvc/?username=newfies&label=Profile%20views&color=ff78b2&style=flat)
 
 # 👤 | Introduction:
 Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am trying to learn coding, and struggle with it alot. The interests below are what I'm interested in, though I haven't *mastered* any yet unfortunately. Check out my repos if you wanna, I'm down to learn new things, anything helps! I have also listed below my strengths and weaknesses.
@@ -20,9 +20,11 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am t
 - Server sided programming
 
 # 📁 | Recent Projects:
-- [Annoying Audios Gone - Lethal Company Mod](https://github.com/Newfies/AnnoyingAudiosGone)
-- [Google Solitaire, But An Added Cursor For A FiveM Loading Screen](https://github.com/Newfies/solitaire-newfies-loadingscreen)
-- [My FiveM Mods](https://github.com/Newfies/fivem-mini-mods)
+- [Patreon Send](https://github.com/Newfies/PatreonSend)
+- [E2GI](https://github.com/Newfies/E2GI)
+- [Captcha](https://github.com/BiographyOfAmerica/E2GI)
+- [MWT](https://github.com/GsLibrary/MarkdownWebsiteTemplate)
+- [NewfiesJS](https://github.com/Newfies/module)
 
 # 📊 | GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Newfies&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
