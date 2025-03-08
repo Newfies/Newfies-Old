@@ -16,6 +16,8 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am t
 - Learning new languages
 - Understanding code
 - Server sided programming
+- Learning from docs
+- Learning from YouTube tutorials
 
 # 📁 | Recent Projects:
 - [Patreon Send](https://github.com/Newfies/PatreonSend)
