@@ -19,12 +19,11 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am t
 - Learning from docs
 - Learning from YouTube tutorials
 
-# 📁 | Recent Projects:
-- [Patreon Send](https://github.com/Newfies/PatreonSend)
-- [E2GI](https://github.com/Newfies/E2GI)
-- [Captcha](https://github.com/BiographyOfAmerica/E2GI)
-- [MWT](https://github.com/GsLibrary/MarkdownWebsiteTemplate)
-- [NewfiesJS](https://github.com/Newfies/module)
+# 😡 | Issues:
+- I struggle with Python, Unity, Blender, Alot of CSS and JS, and Lua. 
+- I can't learn from videos and ai is 90% incorrect and a waste of time.
+- I have zero motivation to do literally anything.
+- I didn't feel like updating the Recent Projects section so thats removed for now.
 
 # 📊 | GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Newfies&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
