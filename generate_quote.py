@@ -18,7 +18,7 @@ for line in readme:
     if "<!--QUOTE-START-->" in line:
         inside = True
         new_readme.append(line)
-        new_readme.append(f"> {quote}\n")
+        new_readme.append(f"### {quote}\n")
     elif "<!--QUOTE-END-->" in line:
         inside = False
         new_readme.append(line)
