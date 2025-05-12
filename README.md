@@ -4,11 +4,7 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am t
 # 💭 | Newfies Quote:
 <h1><strong><center>
 <!--QUOTE-START-->
-<<<<<<< HEAD
 
-=======
-> If your going to fix something, fix it correctly.
->>>>>>> ac53fbffc6859dc08bdf9a38b333ca5a973a3775
 <!--QUOTE-END-->
 </center></strong></h1>
 
