@@ -2,7 +2,7 @@ name: Update Random Quote
 
 on:
   schedule:
-    - cron: '0 */2 * * *' # Every 6 hours
+    - cron: '0 */2 * * *' # Every 2 hours
   workflow_dispatch: # Allow manual trigger
 
 jobs:
@@ -11,11 +11,16 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
+
     - name: Set up Python
       uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
     - name: Run script
       run: |
         python generate_quote.py
+
     - name: Commit changes
       run: |
         git config --global user.name 'github-actions'
