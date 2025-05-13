@@ -3,7 +3,7 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am t
 
 # 💭 | Newfies Quote:
 <!--QUOTE-START-->
-### uBlock Origin for the win!
+### My username is Newfies because Newfies are cool dogs.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
