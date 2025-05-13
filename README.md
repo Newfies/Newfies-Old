@@ -3,7 +3,7 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am t
 
 # 💭 | Newfies Quote:
 <!--QUOTE-START-->
-### Anticensorship for the win.
+### Stopping people from using a workaround, only makes them find another one.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
