@@ -3,7 +3,7 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am t
 
 # 💭 | Newfies Quote:
 <!--QUOTE-START-->
-### Rockstar Games wants to let you know that IRL strip clubs are going out of business when GTA 6 launches.
+### Glitching in games is like a personality to me.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
