@@ -1,9 +1,12 @@
 # 👤 | Introduction:
 Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am trying to learn coding, and struggle with it alot. The interests below are what I'm interested in, though I haven't *mastered* any yet unfortunately. Check out my repos if you wanna, I'm down to learn new things, anything helps! I have also listed below my strengths and weaknesses.
 
-# 💭 | Newfies Quote:
+# 💭 | Newfies Thoughts:
+- I'm probably gonna remove the repos I no longer need soon, Maybe even make a new account? I'm not entirely sure what I'm gonna do but, I wanna keep going.
+- I just made a working page that uses YouTubes API that takes a url and gives you the title name, of course it wouldn't have been possible without help of AI on the API part but still.
+
+# 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Guys can be girls and girls can be guys.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
@@ -29,7 +32,6 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am t
 - I have no way to learn anything tbh.
 - I wanna persue something with music production but have no knowledge on how to do it.
 - Alot of my projects that do work, work because of ChatGPT.
-- 
 
 # 📊 | GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Newfies&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
