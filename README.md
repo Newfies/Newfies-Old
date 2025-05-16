@@ -3,7 +3,7 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am t
 
 # 💭 | Newfies Quote:
 <!--QUOTE-START-->
-### Trans rights are human rights.
+### Guys can be girls and girls can be guys.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
