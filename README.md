@@ -7,7 +7,7 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am t
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Being autistic means that I dont need to hop in the shower to have shower thoughts, they just come normally!
+### GTA 6 Coming out not as soon.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
