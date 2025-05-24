@@ -7,7 +7,7 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am t
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Glitching in games is like a personality to me.
+### I recommend SponsorBlock for YouTube.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
