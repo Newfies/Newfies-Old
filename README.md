@@ -7,7 +7,7 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am t
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### If your going to fix something, fix it correctly.
+### You can probably figure out if I'm a cat or dog person.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
