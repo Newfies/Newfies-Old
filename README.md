@@ -7,7 +7,7 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am t
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### I use Brave Browser.
+### I'm a supporter of the LGBTQ community.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
