@@ -7,7 +7,7 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am t
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Glitching in games arent bugs to me, it's a new opportunity.
+### The more you try to take away freedom, the more valuable it becomes.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
