@@ -7,7 +7,7 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am t
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### I'm a supporter of the LGBTQ community.
+### Stopping people from using a workaround, only makes them find another one.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
