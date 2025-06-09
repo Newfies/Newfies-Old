@@ -7,7 +7,7 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am t
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### uBlock Origin for the win!
+### I love FOSS projects.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
