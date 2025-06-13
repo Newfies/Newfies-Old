@@ -1,6 +1,9 @@
 # 👤 | Introduction:
 Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am trying to learn coding, and struggle with it alot. The interests below are what I'm interested in, though I haven't *mastered* any yet unfortunately. Check out my repos if you wanna, I'm down to learn new things, anything helps! I have also listed below my strengths and weaknesses.
 
+# 💭 | Newfies Thoughts:
+I wanna make horror games..
+
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
 <!--QUOTE-END-->
