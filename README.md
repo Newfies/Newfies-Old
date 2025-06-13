@@ -7,7 +7,7 @@ Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am t
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### I love FOSS projects.
+### Furrys are chill.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
