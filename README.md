@@ -6,7 +6,6 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### I'm a supporter of the LGBTQ community.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
@@ -16,6 +15,7 @@ I wanna make horror games..
 - Creativity
 - Open minded
 - Eager to learn
+- Passion
 
 # 👎 | Weaknesses:
 - Inability to build something with my creative ideas.
@@ -24,14 +24,13 @@ I wanna make horror games..
 - Server sided programming
 - Learning from docs
 - Learning from YouTube tutorials
-
-# 😡 | Issues:
 - I struggle with Python, Unity, Blender, Alot of CSS and JS, and Lua. 
-- I can't learn from videos and ai is 90% incorrect and a waste of time.
+- I can't learn from videos
+- When I use AI its incorrect 90% of the time.
 - I have zero motivation to do literally anything.
-- I have no way to learn anything tbh.
+- I feel like I have no way to learn how to do things.
 - I wanna persue something with music production but have no knowledge on how to do it.
-- Alot of my projects that do work, work because of ChatGPT.
+- If my project works, it most likely was done with ChatGPT, which did 85% of the work.
 
 # 📊 | GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Newfies&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
