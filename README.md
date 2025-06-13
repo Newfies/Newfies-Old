@@ -1,13 +1,8 @@
 # 👤 | Introduction:
 Hello, its Newfies! I am a self taught, highly neurodivergent individual. I am trying to learn coding, and struggle with it alot. The interests below are what I'm interested in, though I haven't *mastered* any yet unfortunately. Check out my repos if you wanna, I'm down to learn new things, anything helps! I have also listed below my strengths and weaknesses.
 
-# 💭 | Newfies Thoughts:
-- I'm probably gonna remove the repos I no longer need soon, Maybe even make a new account? I'm not entirely sure what I'm gonna do but, I wanna keep going.
-- I just made a working page that uses YouTubes API that takes a url and gives you the title name, of course it wouldn't have been possible without help of AI on the API part but still.
-
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### I use Brave Browser.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
