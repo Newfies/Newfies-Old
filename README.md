@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Stopping people from using a workaround, only makes them find another one.
+### Glitching in games arent bugs to me, it's a new opportunity.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
