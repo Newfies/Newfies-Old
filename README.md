@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Guys can be girls and girls can be guys.
+### Glitching in games is like a personality to me.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
