@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Trans rights are human rights.
+### I recommend SponsorBlock for YouTube.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
