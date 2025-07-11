@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### The more you try to take away freedom, the more valuable it becomes.
+### Glitching in games arent bugs to me, it's a new opportunity.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
