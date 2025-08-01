@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### I wanna make horror games.
+### I'm a supporter of the LGBTQ community.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
