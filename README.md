@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### GTA 6 Coming out not as soon.
+### Theres no point of living if you cant live for what you want.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
