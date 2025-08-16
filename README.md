@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### My username is Newfies because Newfies are cool dogs.
+### If you make it easier to pirate than to buy, you chose piracy.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
