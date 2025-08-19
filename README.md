@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Being autistic means that I dont need to hop in the shower to have shower thoughts, they just come normally!
+### They are trying to get rid of VPNs, dont let them.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
