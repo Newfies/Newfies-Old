@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### The more you try to take away freedom, the more valuable it becomes.
+### Being autistic means that I dont need to hop in the shower to have shower thoughts, they just come normally!
 <!--QUOTE-END-->
 
 # 💻 | Interests:
