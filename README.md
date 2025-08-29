@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Trans rights are human rights.
+### Piracy is often the protest of the locked-out.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
