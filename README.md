@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Being autistic means that I dont need to hop in the shower to have shower thoughts, they just come normally!
+### If publishers treat customers like criminals, don't be surprised when customers act like pirates.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
