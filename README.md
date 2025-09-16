@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Anticensorship for the win.
+### You have a good game when I'm unable to find a way to glitch something.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
