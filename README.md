@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Being autistic means that I dont need to hop in the shower to have shower thoughts, they just come normally!
+### Glitching in games arent bugs to me, it's a new opportunity.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
