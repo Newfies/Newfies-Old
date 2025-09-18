@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Trans rights are human rights.
+### I use Brave Browser.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
