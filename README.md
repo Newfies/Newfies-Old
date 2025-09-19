@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### uBlock Origin for the win!
+### ID verification? really?
 <!--QUOTE-END-->
 
 # 💻 | Interests:
