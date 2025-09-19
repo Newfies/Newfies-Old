@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### If your going to fix something, fix it correctly.
+### The Kids Online Safety Act isn't there to protect kids.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
