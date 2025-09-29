@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Glitching in games arent bugs to me, it's a new opportunity.
+### GTA 6 Coming out not as soon.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
