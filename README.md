@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### I love FOSS projects..
+### Stop Killing Games!
 <!--QUOTE-END-->
 
 # 💻 | Interests:
