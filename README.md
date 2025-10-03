@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### I just wanna get good at something.
+### Trans rights are human rights.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
