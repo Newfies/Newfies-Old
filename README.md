@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Trans rights are human rights.
+### Stop Killing Games!
 <!--QUOTE-END-->
 
 # 💻 | Interests:
