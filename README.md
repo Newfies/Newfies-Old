@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Anticensorship for the win.
+### Trans rights are human rights.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
