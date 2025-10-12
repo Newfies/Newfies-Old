@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### ID verification? really?
+### Glitching in games arent bugs to me, it's a new opportunity.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
