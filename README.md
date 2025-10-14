@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### My username is Newfies because Newfies are cool dogs.
+### Stopping people from having privacy, only makes them want it more.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
