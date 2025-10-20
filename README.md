@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### The Kids Online Safety Act isn't there to protect kids.
+### If DRM locks me out, piracy lets me in.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
