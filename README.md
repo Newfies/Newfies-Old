@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### If buying isn't owning pirating isn't stealing.
+### I wanna become a game developer.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
