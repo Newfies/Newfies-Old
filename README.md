@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### ID verification? really?
+### Stop Killing Games!
 <!--QUOTE-END-->
 
 # 💻 | Interests:
