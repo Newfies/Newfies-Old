@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### F*ck **Pirate Software**
+### Guys can be girls and girls can be guys.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
