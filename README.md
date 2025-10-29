@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Anticensorship for the win.
+### Stop Killing Games!
 <!--QUOTE-END-->
 
 # 💻 | Interests:
