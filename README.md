@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### They are trying to get rid of VPNs, dont let them.
+### I recommend SponsorBlock for YouTube.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
