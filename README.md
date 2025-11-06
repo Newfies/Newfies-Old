@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Guys can be girls and girls can be guys.
+### I wanna become a game developer.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
