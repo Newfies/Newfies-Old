@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### I wanna make horror games.
+### Stopping people from having privacy, only makes them want it more.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
