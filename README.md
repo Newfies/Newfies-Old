@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Stop Killing Games!
+### Furrys are chill.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
