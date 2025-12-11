@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Piracy is a service problem, not a crime.
+### Trans rights are human rights.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
