@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Glitching in games is like a personality to me.
+### Theres no point of living if you cant live for what you want.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
