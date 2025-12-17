@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Stopping people from having privacy, only makes them want it more.
+### Glitching in games is like a personality to me.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
