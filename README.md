@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### uBlock Origin for the win!
+### I use Brave Browser.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
