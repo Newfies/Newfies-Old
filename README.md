@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### F*ck **Pirate Software**
+### Stop Killing Games!
 <!--QUOTE-END-->
 
 # 💻 | Interests:
