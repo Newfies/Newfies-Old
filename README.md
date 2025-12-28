@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### You can probably figure out if I'm a cat or dog person.
+### I wanna make horror games.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
