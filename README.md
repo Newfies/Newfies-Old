@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### F*ck **Pirate Software**
+### Stopping people from having privacy, only makes them want it more.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
