@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### If your going to fix something, fix it correctly.
+### If publishers treat customers like criminals, don't be surprised when customers act like pirates.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
