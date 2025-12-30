@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Glitching in games arent bugs to me, it's a new opportunity.
+### If you make it easier to pirate than to buy, you chose piracy.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
