@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Stop Killing Games!
+### I use Brave Browser.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
