@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### ID verification? really?
+### Being autistic means that I dont need to hop in the shower to have shower thoughts, they just come normally!
 <!--QUOTE-END-->
 
 # 💻 | Interests:
