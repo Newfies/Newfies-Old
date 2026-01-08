@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Stopping people from using a workaround, only makes them find another one.
+### uBlock Origin for the win!
 <!--QUOTE-END-->
 
 # 💻 | Interests:
