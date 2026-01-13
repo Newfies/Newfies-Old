@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### GTA 6 Coming out not as soon.
+### They are trying to get rid of VPNs, dont let them.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
