@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Trans rights are human rights.
+### My username is Newfies because Newfies are cool dogs.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
