@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### If you make it easier to pirate than to buy, you chose piracy.
+### If buying isn't owning pirating isn't stealing.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
