@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### I love FOSS projects..
+### If DRM locks me out, piracy lets me in.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
