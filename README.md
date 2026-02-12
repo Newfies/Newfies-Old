@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Anticensorship for the win.
+### I love FOSS projects..
 <!--QUOTE-END-->
 
 # 💻 | Interests:
