@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Stopping people from having privacy, only makes them want it more.
+### Copying is not theft. Stealing removes, copying multiplies.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
