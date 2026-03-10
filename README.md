@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### I just wanna get good at something.
+### The Kids Online Safety Act isn't there to protect kids.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
