@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Stopping people from having privacy, only makes them want it more.
+### Stopping people from using a workaround, only makes them find another one.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
