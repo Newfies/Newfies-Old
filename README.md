@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### I wanna become a game developer.
+### Furrys are chill.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
