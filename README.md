@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### If DRM locks me out, piracy lets me in.
+### Rockstar Games wants to let you know that IRL strip clubs are going out of business when GTA 6 launches.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
