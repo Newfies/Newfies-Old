@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### I recommend SponsorBlock for YouTube.
+### I love FOSS projects..
 <!--QUOTE-END-->
 
 # 💻 | Interests:
