@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### I recommend SponsorBlock for YouTube.
+### ID verification? really?
 <!--QUOTE-END-->
 
 # 💻 | Interests:
