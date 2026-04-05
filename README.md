@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Copying is not theft. Stealing removes, copying multiplies.
+### If your going to fix something, fix it correctly.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
