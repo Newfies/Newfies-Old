@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Piracy is a service problem, not a crime.
+### The Kids Online Safety Act isn't there to protect kids.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
