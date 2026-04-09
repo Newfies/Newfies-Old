@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Piracy is often the protest of the locked-out.
+### F*ck **Pirate Software**
 <!--QUOTE-END-->
 
 # 💻 | Interests:
