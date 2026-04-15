@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Glitching in games is like a personality to me.
+### Furrys are chill.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
