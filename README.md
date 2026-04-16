@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### I love FOSS projects..
+### Piracy is a service problem, not a crime.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
