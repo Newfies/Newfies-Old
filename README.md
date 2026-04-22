@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Glitching in games arent bugs to me, it's a new opportunity.
+### If publishers treat customers like criminals, don't be surprised when customers act like pirates.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
