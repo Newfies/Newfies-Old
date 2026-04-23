@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### The more you try to take away freedom, the more valuable it becomes.
+### You can probably figure out if I'm a cat or dog person.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
