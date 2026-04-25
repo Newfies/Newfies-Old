@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Furrys are chill.
+### Anticensorship for the win.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
