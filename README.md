@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Anticensorship for the win.
+### If buying isn't owning pirating isn't stealing.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
