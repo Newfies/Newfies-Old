@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### You can probably figure out if I'm a cat or dog person.
+### Rockstar Games wants to let you know that IRL strip clubs are going out of business when GTA 6 launches.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
