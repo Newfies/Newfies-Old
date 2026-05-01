@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Theres no point of living if you cant live for what you want.
+### I wanna become a game developer.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
