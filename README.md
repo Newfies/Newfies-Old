@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### If publishers treat customers like criminals, don't be surprised when customers act like pirates.
+### My username is Newfies because Newfies are cool dogs.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
