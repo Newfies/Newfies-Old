@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### If you make it easier to pirate than to buy, you chose piracy.
+### You can probably figure out if I'm a cat or dog person.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
