@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### My username is Newfies because Newfies are cool dogs.
+### I love FOSS projects..
 <!--QUOTE-END-->
 
 # 💻 | Interests:
