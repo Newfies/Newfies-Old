@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### My username is Newfies because Newfies are cool dogs.
+### Stopping people from using a workaround, only makes them find another one.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
