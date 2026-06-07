@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### I love FOSS projects..
+### Copying is not theft. Stealing removes, copying multiplies.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
