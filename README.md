@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### The Kids Online Safety Act isn't there to protect kids.
+### You have a good game when I'm unable to find a way to glitch something.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
