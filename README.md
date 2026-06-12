@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### uBlock Origin for the win!
+### I wanna make something of my own.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
