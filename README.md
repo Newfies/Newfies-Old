@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### You can probably figure out if I'm a cat or dog person.
+### uBlock Origin for the win!
 <!--QUOTE-END-->
 
 # 💻 | Interests:
