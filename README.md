@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### You can probably figure out if I'm a cat or dog person.
+### Stopping people from using a workaround, only makes them find another one.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
