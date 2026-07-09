@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Stopping people from having privacy, only makes them want it more.
+### They are trying to get rid of VPNs, dont let them.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
