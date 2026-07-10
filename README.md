@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Anticensorship for the win.
+### Theres no point of living if you cant live for what you want.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
