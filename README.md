@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Being autistic means that I dont need to hop in the shower to have shower thoughts, they just come normally!
+### If you make it easier to pirate than to buy, you chose piracy.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
