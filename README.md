@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Stopping people from having privacy, only makes them want it more.
+### Theres no point of living if you cant live for what you want.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
