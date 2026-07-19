@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### I'm a supporter of the LGBTQ community.
+### ID verification? really?
 <!--QUOTE-END-->
 
 # 💻 | Interests:
