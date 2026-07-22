@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Stop Killing Games!
+### Piracy is often the protest of the locked-out.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
