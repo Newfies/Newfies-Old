@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Anticensorship for the win.
+### Piracy is a service problem, not a crime.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
