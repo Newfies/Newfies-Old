@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Stopping people from using a workaround, only makes them find another one.
+### I just wanna get good at something.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
