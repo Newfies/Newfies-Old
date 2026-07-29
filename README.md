@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Piracy is a service problem, not a crime.
+### I wanna become a game developer.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
