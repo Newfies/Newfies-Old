@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### The Kids Online Safety Act isn't there to protect kids.
+### They are trying to get rid of VPNs, dont let them.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
