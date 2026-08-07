@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### ID verification? really?
+### I love FOSS projects..
 <!--QUOTE-END-->
 
 # 💻 | Interests:
