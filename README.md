@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### If your going to fix something, fix it correctly.
+### Theres no point of living if you cant live for what you want.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
