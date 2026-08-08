@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### I wanna make horror games.
+### The more you try to take away freedom, the more valuable it becomes.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
