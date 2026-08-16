@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### I wanna make horror games.
+### I wanna make something of my own.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
