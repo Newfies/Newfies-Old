@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### If DRM locks me out, piracy lets me in.
+### If publishers treat customers like criminals, don't be surprised when customers act like pirates.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
