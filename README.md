@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### The Kids Online Safety Act isn't there to protect kids.
+### If you make it easier to pirate than to buy, you chose piracy.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
