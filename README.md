@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### uBlock Origin for the win!
+### Furrys are chill.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
