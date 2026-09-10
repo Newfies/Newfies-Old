@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Trans rights are human rights.
+### GTA 6 Coming out not as soon.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
