@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### If buying isn't owning pirating isn't stealing.
+### Trans rights are human rights.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
