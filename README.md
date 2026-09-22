@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Glitching in games is like a personality to me.
+### Rockstar Games wants to let you know that IRL strip clubs are going out of business when GTA 6 launches.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
