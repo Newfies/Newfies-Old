@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### If publishers treat customers like criminals, don't be surprised when customers act like pirates.
+### GTA 6 Coming out not as soon.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
