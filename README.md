@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### You can probably figure out if I'm a cat or dog person.
+### They are trying to get rid of VPNs, dont let them.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
