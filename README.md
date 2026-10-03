@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### Anticensorship for the win.
+### Piracy is often the protest of the locked-out.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
