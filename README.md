@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### If DRM locks me out, piracy lets me in.
+### I wanna make something of my own.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
