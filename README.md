@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### They are trying to get rid of VPNs, dont let them.
+### You have a good game when I'm unable to find a way to glitch something.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
