@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### If your going to fix something, fix it correctly.
+### Piracy is a service problem, not a crime.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
