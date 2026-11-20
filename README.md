@@ -6,7 +6,7 @@ I wanna make horror games..
 
 # 💭⚙️ | Newfies Quote:
 <!--QUOTE-START-->
-### I'm a supporter of the LGBTQ community.
+### You can probably figure out if I'm a cat or dog person.
 <!--QUOTE-END-->
 
 # 💻 | Interests:
